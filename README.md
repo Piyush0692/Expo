@@ -2,8 +2,8 @@
 A clone of the Exo Ape website, built from scratch with **React (TypeScript)**, **GSAP**, **Motion (Framer Motion)**, and **Lenis** to showcase advanced front-end animation techniques and smooth scrolling experiences.
 
 [**Live Demo**](https://expo-eight-xi.vercel.app/)
-<img width="1728" alt="image" src="https://github.com/user-attachments/assets/aed8fd2d-c6fa-49fd-8b89-cdd226036431" />
-<img width="1728" alt="image" src="https://github.com/user-attachments/assets/ff2bcb41-1cb8-4f9b-960e-89f3b96148e9" />
+<img width="1728" alt="image" src="https://github.com/user-attachments/assets/hero_bg.webp" />
+<img width="1728" alt="image" src="https://github.com/user-attachments/assets/work_img1.webp" />
 
 
 ## 🌟 Features
