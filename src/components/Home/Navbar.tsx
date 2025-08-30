@@ -115,9 +115,9 @@ const Navbar = ({
     z-[999]
     "
     >
-      <div className=" mx-auto p-5 sm:p-12 flex justify-between items-center text-white">
+      <div className="flex items-center justify-between p-5 mx-auto text-white sm:p-12">
         <Link to="/">
-          <div className="logo overflow-hidden flex">
+          <div className="flex overflow-hidden logo">
             <svg
               viewBox="0 0 95 25"
               fill="none"
@@ -178,7 +178,7 @@ const Navbar = ({
           </div>
         </Link>
 
-        <div className=" secondary-menu hidden opacity-0 items-center gap-4">
+        <div className="items-center hidden gap-4 opacity-0 secondary-menu">
           <p
             className={`text-base font-light transition-colors duration-300 text-[${logoColor}]`}
           >
@@ -206,9 +206,9 @@ const Navbar = ({
           </div>
         </div>
 
-        <div className="links overflow-hidden hidden sm:flex items-center gap-10">
-          <div className="sm:flex items-center gap-5">
-            <Link to={"/work"} className=" relative group">
+        <div className="items-center hidden gap-10 overflow-hidden links sm:flex">
+          <div className="items-center gap-5 sm:flex">
+            <Link to={"/work"} className="relative group">
               <a
                 style={{
                   color: logoColor,
@@ -230,7 +230,7 @@ const Navbar = ({
               Original
             </Link>
             <Link
-              to={"https://github.com/yashsarode45/Exoape-Clone"}
+              to={"https://github.com/Piyush0692/Expoape-Clone"}
               target="blank"
             >
               <FaGithub
@@ -240,7 +240,7 @@ const Navbar = ({
                 className=" w-[1.5vw] h-[2vw] hover:text-black transition-all"
               />
             </Link>
-            <Link to={"https://www.linkedin.com/in/yashsarode/"} target="blank">
+            <Link to={"https://www.linkedin.com/in/krishan-chauhan-ab3940369/"} target="blank">
               <FaLinkedin
                 style={{
                   color: logoColor,
